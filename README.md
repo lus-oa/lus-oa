@@ -19,6 +19,9 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/fusemen/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fusemen&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### My Skill Set
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
