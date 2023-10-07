@@ -1,4 +1,4 @@
-## Hi there 👋,I'm cheng.
+# Hi there 👋,I'm cheng.
 
 <a href='https://undraw.co/'> 
     <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
@@ -10,14 +10,17 @@
 - 📫 How to reach me: 2601024194@qq.com
 - 😄 Read more about my CSDN: [here]()
 
-![](https://github-readme-stats.vercel.app/api?username=fusemen&show_icons=true&theme=transparent)
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=fusemen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> 
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusemen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fusemen&layout=compact&theme=transparent)
+<br/>
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=fusemen&theme=dracula)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/fusemen/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+## You are my ![Visitor Count](https://profile-counter.glitch.me/fusemen/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fusemen" /> </div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fusemen&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
