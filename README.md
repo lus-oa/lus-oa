@@ -1,7 +1,7 @@
 # Hi there 👋,I'm cheng.
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
+    <img align='right' alt='programmer' width=50% src='./undraw_web_developer_p3e5.svg' />
 </a>
 
 - 🔭 I’m currently working on something cool.
