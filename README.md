@@ -1,5 +1,12 @@
 # Hi there 👋,I'm cheng.
 
+<!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=printf(%22Hello%2C%20World%22);欢迎您来!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+
 <a href='https://undraw.co/'> 
     <img align='right' alt='programmer' width=50% src='./undraw_web_developer_p3e5.svg' />
 </a>
@@ -14,6 +21,7 @@
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusemen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <br/>
+
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=fusemen&theme=dracula)
 
