@@ -9,7 +9,7 @@
 - 💬 Ask me about anything related to C/C++.
 - 📫 How to reach me: 2601024194@qq.com
 - 😄 Read more about my CSDN: [here]()
-Hi, I'm **Upamanyu Das**. I _read_, I _write_ and I _build_ stuff for the internet.
+
 ![](https://github-readme-stats.vercel.app/api?username=fusemen&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fusemen&layout=compact&theme=transparent)
