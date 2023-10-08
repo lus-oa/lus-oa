@@ -8,7 +8,7 @@
   </div>
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=50% src='./undraw_web_developer_p3e5.svg' />
+    <img align='right' alt='programmer' width=55% src='./undraw_web_developer_p3e5.svg' />
 </a>
 
 - 🔭 I’m currently working on something cool.
@@ -22,10 +22,9 @@
 
 <br/>
 
-
-
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=fusemen&theme=dracula)
 
+<br/>
 
 ## You are my ![Visitor Count](https://profile-counter.glitch.me/fusemen/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
