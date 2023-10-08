@@ -8,7 +8,7 @@
   </div>
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=50%  height="450px" src='./undraw_web_developer_p3e5.svg' />
+    <img align='right' alt='programmer' width=50%  height="430px" src='./undraw_web_developer_p3e5.svg' />
 </a>
 
 - 🔭 **I’m currently working on something cool.**
