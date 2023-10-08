@@ -1,4 +1,4 @@
-# Hi there 👋,I'm cheng.
+# Hi! 👋,I'm cheng 🌈🌈🌈.
 
 <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -8,14 +8,14 @@
   </div>
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=50% src='./undraw_web_developer_p3e5.svg' />
+    <img align='right' alt='programmer' width=50%  height="450px" src='./undraw_web_developer_p3e5.svg' />
 </a>
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to C/C++.
-- 📫 How to reach me: xinclin@mail.sdu.edu.cn
-- 😄 Read more about my CSDN: [here]()
+- 🔭 **I’m currently working on something cool.**
+- 🌱 **I’m currently learning Everything I like.**
+- 💬 **Ask me about anything related to C/C++.**
+- 📫 **How to reach me: xinclin@mail.sdu.edu.cn**
+- 😄 **Read more about my CSDN: [here]()**
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=fusemen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> 
 <img align="left" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fusemen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
