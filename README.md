@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to C/C++.
-- 📫 How to reach me: 2601024194@qq.com
+- 📫 How to reach me: xinclin@mail.sdu.edu.cn
 - 😄 Read more about my CSDN: [here]()
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=fusemen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> 
