@@ -17,19 +17,19 @@
 - 📫 **How to reach me: xinclin@mail.sdu.edu.cn**
 - 😄 **Read more about my CSDN: [here]()**
 
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=fusemen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> 
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lus-oa&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> 
 
-<img align="left" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fusemen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-
-<br/>
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=fusemen&theme=dracula)
+<img align="left" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lus-oa&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <br/>
 
-## You are my ![Visitor Count](https://profile-counter.glitch.me/fusemen/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![](https://github-readme-activity-graph.cyclic.app/graph?username=lus-oa&theme=dracula)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fusemen" /> </div>
+<br/>
+
+## You are my ![Visitor Count](https://profile-counter.glitch.me/lus-oa/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lus-oa" /> </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -40,7 +40,7 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fusemen&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lus-oa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My Skill Set
 
