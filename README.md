@@ -27,7 +27,7 @@
 
 <br/>
 
-## You are my ![Visitor Count](https://profile-counter.glitch.me/lus-oa/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+## You are my ![Visitor Count](https://profile-counter.glitch.me/lus-oa/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lus-oa" /> </div>
 
